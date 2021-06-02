@@ -1,2 +1,2 @@
-# mightymushu.github.io
+# securedsharing.github.io
 GitHub Pages
